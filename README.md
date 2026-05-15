@@ -19,7 +19,7 @@ Hedefim, lisede kazandığım bu pratik ve sahada olma becerisini üniversitede 
 İletişim
 
 - İnstagram:tetrenpost0
-- Mail: ahmeterenkaratas78@gmail.com
+- Mail:ahmeterenkaratas78@gmail.com
 
 
 Atölyede çalışan pratik projelere odaklanıyor, öğrendiğim faydalı bilgileri ve dokümanları toplulukla paylaşıyorum.
