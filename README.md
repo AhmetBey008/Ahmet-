@@ -14,8 +14,6 @@ Merhaba, ben Ahmet. Artvin TOBB MTAL Elektrik-Elektronik Bölümü öğrencisiyi
 
 Okulda sadece teoride kalmayı sevmeyenlerdenim; işin mutfağında, yani atölyede olmayı daha çok seviyorum. Arduino ve ESP32 ile mikrodenetleyici projeleri yapıyor, akıllı sistemler ve mini sumo/çizgi izleyen robotlar üzerinde çalışıyorum. Tasarladığım bir devrenin sorunsuz çalıştığını görmek benim için en büyük motivasyon.
 
-Hedefim, lisede kazandığım bu pratik ve sahada olma becerisini üniversitede Elektrik-Elektronik Mühendisliğiyle birleştirip tam donanımlı bir mühendis olmak.
-
 İletişim
 
 - İnstagram:tetrenpost0
